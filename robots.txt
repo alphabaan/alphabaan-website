@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://alphabaan.github.io/alphabaan-website/sitemap.xml
